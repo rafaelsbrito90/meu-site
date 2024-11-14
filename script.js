@@ -1,4 +1,4 @@
-const script_do_google = 'https://script.google.com/macros/s/AKfycbw3SRVjIPYi-nsIGK8qAVqZtId-HpFM7hBqwZUi2Y2AOyyzgZ8eUi0P72HWlsHN4ZCZAA/exec';
+const script_do_google = 'https://script.google.com/macros/s/AKfycbxKGhD6RtgFOeiIyjqlOJDSHdEU2bULYmTs7ZEnrxbnXmhAaRwb5OB3PF9LXGDOTTy7gQ/exec';
 const dados_do_formulario = document.forms['formulario-contato'];
 
 dados_do_formulario.addEventListener('submit', function (e) {
